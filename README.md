@@ -1,4 +1,4 @@
-# semiTranslator
+# SemiTranslatore
 Translates english to Chinese, Spanish, and Russian in rusted.InI formatting.
 
 # Instructions
