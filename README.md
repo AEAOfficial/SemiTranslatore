@@ -1,6 +1,6 @@
 # SemiTranslatore
 Translates english to Chinese, Spanish, and Russian in rusted.InI formatting.
-
+Requires Python 3.7+
 # Instructions
 Step 1. Put mod in input folder
 Step 2. Run the tst.bat file
